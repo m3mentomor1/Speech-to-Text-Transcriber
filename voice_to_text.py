@@ -1,17 +1,3 @@
-
-# --------------------------------------------------
-# File Name: voice_to_text.py
-# --------------------------------------------------
-# Date Completed: 12-06-2023
-# --------------------------------------------------
-# Description:
-# This is a simple speech-to-text program that 
-# uses the SpeechRecognition library to capture 
-# spoken words from a microphone for 5 seconds 
-# and then transcribes the captured words into 
-# readable text.
-# --------------------------------------------------
-
 import speech_recognition as sr
 
 def main():
