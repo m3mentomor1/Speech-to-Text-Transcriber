@@ -6,7 +6,7 @@ This is a simple speech-to-text program that uses the SpeechRecognition library 
 ----------------------
 
 ### 📦 II. Dependencies
-- 
+- **SpeechRecognition** - a library that provides simple and easy-to-use tools for performing speech recognition in Python.
 
 ----------------------
 
@@ -16,12 +16,12 @@ This is a simple speech-to-text program that uses the SpeechRecognition library 
 
    Paste this command on your terminal: 
    ```
-   git clone https://github.com/m3mentomor1/Pattern-Based-File-Remover.git
+   git clone https://github.com/m3mentomor1/Speech-to-Text-Transcriber.git
    ```
 
 **2. Go to the repository's main directory**
    
    Paste this command on your terminal:
    ```
-   cd Pattern-Based-File-Remover
+   cd Speech-to-Text-Transcriber
    ```
