@@ -25,3 +25,10 @@ This is a simple speech-to-text program that uses the SpeechRecognition library 
    ```
    cd Speech-to-Text-Transcriber
    ```
+
+**3. Install dependencies**
+   
+   Paste this command on your terminal:
+   ```
+   pip install SpeechRecognition
+   ```
